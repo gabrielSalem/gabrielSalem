@@ -1,4 +1,4 @@
-Olá, sou Gabriel(Desesnvolvendor Web que tá nesse mundão)👍
+Olá, sou Gabriel(Desesnvolvendor Web que tá nesse mundão)👍<br/>
 Atualmente quase indo ao boss final da faculdade, TCC, e batalhando bastante pra ta me atualizando a cada dia e sendo útil a quem necessita 😊
 
 <!---
