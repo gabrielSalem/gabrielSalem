@@ -1,20 +1,16 @@
 # Desenvolvedor Full Stack
-
-<p>Comecei a trabalhar como freelancer em 2019 e depois de 1 ano e meio dei uma parada. Em 2021 retornei pra buscar experiência com certos conhecimentos recem aprendidos e uma renda financeira.</p>
-
-<p>Estou no 7º semestre no bacharelado em Sistemas de Informação e sou formado como técnico em informática(Foi quando me apaixonei pela área ❤💻)</p>
-
-**Minha experiência nesses 6 anos na área de TI estudando e aplicando o que aprendi:**
-
+👨🏽‍💻 Técnico em informática
+👨🏽‍🎓 Bacharelado em Sistema de Informação(7/8)
+<br/>
+**O que já tive contato e/ou uso**
 - [x] Java
-- [x] HTML, CSS, JS
-- [x] Arduino
-- [x] C, C++
-- [x] Lua
+- [x] **HTML5, CSS3, JS**
+- [x] Arduino,C, C++
+- [x] Lua, Python
 - [x] Designer utlizando editores como Photshop e Krita
 - [x] Desenvolvimento Mobile com Android Studio
-- [x] React e Vue 
-- [x] MySQL, Postgree 
+- [x] **React** e Vue 
+- [x] **MySQL**, Postgree 
 
 **Minhas redes socias e contas que freelo**
 
