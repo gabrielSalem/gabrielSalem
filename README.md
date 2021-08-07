@@ -1,7 +1,8 @@
 # Desenvolvedor Full Stack
-👨🏽‍💻 Técnico em informática
-👨🏽‍🎓 Bacharelado em Sistema de Informação(7/8)
-<br/>
+
+👨🏽‍💻 Técnico em informática<br/>
+👨🏽‍🎓 Bacharelado em Sistema de Informação(7/8)<br/>
+
 **O que já tive contato e/ou uso**
 - [x] Java
 - [x] **HTML5, CSS3, JS**
