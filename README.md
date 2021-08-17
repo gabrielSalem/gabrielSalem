@@ -1,9 +1,9 @@
 # Bem vindo!!!
 
-
+<!-- 
 
 <img align="right" width="40%" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
-
+ -->
 <!-- <img align="right" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2Fc59fc93c23fbcbe81291dae375a69cfa%2Ftumblr_o2x9h8yGyJ1titu82o1_500.gifv&f=1&nofb=1"> -->
 
 ### Desenvolvedor Full Stack
