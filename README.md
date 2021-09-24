@@ -29,5 +29,3 @@
 (https://www.workana.com/freelancer/2dfc48230a8c4474c5237af94c7da858) -->
 
 
-Obrigado pela visita 🙂 
-Volte sempre 🤗
