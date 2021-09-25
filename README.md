@@ -19,8 +19,8 @@
 - [x] Desenvolvimento Mobile com Android Studio
 - [x] **React** e Vue 
 - [x] **MySQL**, Postgree 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/gabriel-sa-825054213/)
+<!-- 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/gabriel-sa-825054213/) -->
 
 <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel_s4l3m/)
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gabriel_s4lem@protonmail.com) -->
