@@ -12,8 +12,8 @@
 
 **O que já tive contato e/ou uso**
 - [x] Java
-- [x] **HTML5, CSS3, JS**
-- [x] Arduino,C, C++
+- [x] **HTML5, CSS3, JS, TypeScript**
+- [x] Arduino, C, C++
 - [x] Lua, Python
 - [x] Designer utlizando editores como Photshop e Krita
 - [x] Desenvolvimento Mobile com Android Studio
