@@ -11,7 +11,7 @@
 👨🏽‍🎓 Bacharelado em Sistema de Informação(7/8)<br/>
 
 **O que já tive contato e/ou uso**
-- [x] Java
+- [x] Java, PHP
 - [x] **HTML5, CSS3, JS, TypeScript**
 - [x] Arduino, C, C++
 - [x] Lua, Python
